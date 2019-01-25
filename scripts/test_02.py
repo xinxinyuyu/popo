@@ -11,6 +11,8 @@ def test_login():
 
 #     allure.attach("登录", "点击登录")
     print("fff")
+    
+    print("ggg")
 
     assert 1
 
