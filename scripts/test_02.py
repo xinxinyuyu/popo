@@ -13,6 +13,8 @@ def test_login():
     print("fff")
     
     print("ggg")
+    
+    print("uuu")
 
     assert 1
 
